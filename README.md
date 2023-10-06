@@ -8,7 +8,7 @@ User Can See the tasks Added, can Add new Tasks, Delete Tasks,Edit Tasks.
   <li>Install the node module file for both React Js and Node Js</li>
     <li>Give The url of your Mongo Db </li>
   <li>
-    To run React give : npm rundev
+    To run React give : npm run dev
   </li>
   <li>TO run server : node server.js</li>
 </ul>
